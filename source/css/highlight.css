@@ -130,9 +130,12 @@
   text-decoration: underline
 }
 
-pre .comment,
-pre .title {
+pre .comment{
   color: #999
+
+}
+pre .title {
+  color: #ffa;
 }
 
 pre .variable,
