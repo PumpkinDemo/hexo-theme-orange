@@ -1,17 +1,17 @@
-[English](https://github.com/zchengsite/hexo-theme-oranges/blob/master/README.md) | 简体中文
+[English](https://github.com/PumpkinDemo/hexo-theme-orange/blob/main/README.md) | 简体中文
 
 # hexo-theme-oranges
 
 > 一个简单的hexo主题
 
-[demo](https://hexo.theme.oranges.zcheng.site/)
+[demo](https://blog.pumpk1n.com/)
 
 ## 安装
 
 在hexo博客项目根目录下执行，会将`oranges`主题clone至`themes`文件夹下
 
 ```bash
-$ git clone https://github.com/zchengsite/hexo-theme-oranges.git themes/oranges
+$ git clone https://github.com/PumpkinDemo/hexo-theme-orange.git themes/orange
 ```
 
 ## 使用
@@ -19,7 +19,7 @@ $ git clone https://github.com/zchengsite/hexo-theme-oranges.git themes/oranges
 在hexo博客项目根目录下找到`_config.yml`文件，修改其中`theme`字段为主题名`oranges`
 
 ```yml
-theme: oranges
+theme: orange
 ```
 
 ## 配置
